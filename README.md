@@ -1,3 +1,5 @@
+Stale
+
 # StaleBot-Test
 Edit
 
