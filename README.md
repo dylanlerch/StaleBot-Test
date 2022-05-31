@@ -1,2 +1,2 @@
 # StaleBot-Test
-Edit
+Stale
